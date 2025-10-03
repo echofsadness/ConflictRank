@@ -5,13 +5,8 @@
   "[RTA] Royal Thai Army | กองทัพบกไทย": {
     "_meta": {
       "insignia": "rbxassetid://104252456874747",
-      "bgColor": [
-        0,
-        128,
-        43
-      ]
+      "bgColor": [0, 128, 43]
     },
     "luckythaina2": "[LD] Logistic Director | ผู้อำนวยการพลาธิการ"
-    
   }
 }
